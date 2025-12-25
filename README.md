@@ -4,7 +4,7 @@ Nightfall Legacy is a lightweight, read-only toolkit designed for inspecting onc
 
 ## Repository Structure
 
-- app.nightfall-legacy.ts  
+- app/nightfall-legacy.ts  
   The core script that connects to Coinbase Wallet and interacts with the Base RPC, performing read-only operations.
 
 - config/base.networks.json  
